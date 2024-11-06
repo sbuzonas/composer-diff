@@ -3,7 +3,7 @@
     "description": "Display diffs of composer projects and all their modules",
     "require": {
         "symfony/console": "^2.6",
-        "symfony/process": "^2.6"
+        "symfony/process": "^5.4"
     },
     "authors": [
         {
